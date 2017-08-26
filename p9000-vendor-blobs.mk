@@ -484,7 +484,6 @@ PRODUCT_COPY_FILES += \
  vendor/elephone/p9000/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
  vendor/elephone/p9000/proprietary/lib64/libaudiodcrflt.so:system/lib64/libaudiodcrflt.so \
  vendor/elephone/p9000/proprietary/lib64/libaudiopolicymanager.so:system/lib64/libaudiopolicymanager.so \
- vendor/elephone/p9000/proprietary/lib64/libaudiopolicymanagerdefault.so:system/lib64/libaudiopolicymanagerdefault.so \
  vendor/elephone/p9000/proprietary/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
  vendor/elephone/p9000/proprietary/lib64/libbessound_hd_mtk.so:system/lib64/libbessound_hd_mtk.so \
  vendor/elephone/p9000/proprietary/lib64/libblisrc.so:system/lib64/libblisrc.so \
